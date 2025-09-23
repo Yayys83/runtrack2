@@ -1,0 +1,9 @@
+body {
+    background-color: #c06c84;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+form {
+    background: #f67280;
+    padding: 20px;
+    border-radius: 8px;
+}
